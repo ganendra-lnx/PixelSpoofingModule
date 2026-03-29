@@ -11,4 +11,4 @@ Magisk module to spoof devices to be Pixel automatically.
 1. Install via Magisk
 2. Reboot
 
-There is no newer version available for this module i.e. this is the latest and final version.
+I will apply the update if there is a new Pixel smartphone release.
