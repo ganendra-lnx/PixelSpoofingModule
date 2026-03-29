@@ -1,0 +1,8 @@
+ro.product.brand=google
+ro.product.manufacturer=Google
+
+persist.sys.usb.config=mtp
+
+dalvik.vm.heapstartsize=16m
+dalvik.vm.heapgrowthlimit=256m
+dalvik.vm.heapsize=512m
